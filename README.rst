@@ -37,8 +37,6 @@ display.show()
 
 
 
-DEPRECATED LIBRARY micropython-adafruit-ssd1306
-===============================================
 
 This library has been deprecated! We are leaving this up for historical and research purposes but archiving the repository.
 
